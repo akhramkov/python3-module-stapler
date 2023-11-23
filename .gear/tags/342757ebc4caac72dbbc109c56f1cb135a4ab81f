@@ -1,0 +1,6 @@
+object d3f091ab0e50cf7dcce69ac722908cdc83779a7b
+type commit
+tag 1.0.0
+tagger Philip Stark <git@codechaos.ch> 1583514956 +0100
+
+Version 1.0.0 with Python 3 support and updated testing code.

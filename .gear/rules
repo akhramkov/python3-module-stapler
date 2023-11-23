@@ -1,0 +1,1 @@
+tar: @version@:. name=stapler-@version@ base=stapler-@version@
